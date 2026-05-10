@@ -34,7 +34,7 @@ Vérifiez avec votre auxiliaire d'enseignement (chargé.e de laboratoire).
 
 Cet exercice permet de comprendre les bases des technologies suivantes:
 
-- [Node.js](https://nodejs.org/en/docs/guides/)
+- [Node.js](https://nodejs.org/docs/latest/api/synopsis.html)
   - [TypeScript](https://www.typescriptlang.org/docs/home.html)
   - [Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
   - [Jest](https://jestjs.io/docs/en/api)
